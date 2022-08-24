@@ -3,7 +3,7 @@ I'm Ian, from Brazil, and i am a student of Analysis and Systems development at 
 
 ## 🧰 Languages and Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=c,java,mysql,figma)](https://skills.thijs.gg)
-I’m currently learning:
+<br/>I’m currently learning:<br/>
 [![My Skills](https://skills.thijs.gg/icons?i=postgres,cs,unity)](https://skills.thijs.gg)
 
 ## ✉️ Find me on:
