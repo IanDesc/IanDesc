@@ -4,7 +4,7 @@ I'm Ian, from Brazil, and i am a student of Analysis and Systems development at 
 
 ## 💻 Languages and Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=c,java,mysql,figma)](https://skills.thijs.gg)
-<br/>I’m currently learning:<br/> <br/>
+<br/><br/>I’m currently learning:<br/>
 [![My Skills](https://skills.thijs.gg/icons?i=postgres,cs,unity)](https://skills.thijs.gg)
 
 ## ✉️ Find me on:
@@ -13,8 +13,8 @@ I'm Ian, from Brazil, and i am a student of Analysis and Systems development at 
 
 <div>
 <a href="https://github.com/IanDesc">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanDesc&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=IanDesc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanDesc&layout=compact&langs_count=7&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=IanDesc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
