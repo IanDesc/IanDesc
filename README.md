@@ -1,8 +1,12 @@
-### Hello there
+### 🧑‍💻 Hello there
+I'm Ian, from Brazil, and i am a student of Analysis and Systems development at the Federal Technological University of Parana (UTFPR).
 
-I'm Ian, from Brazil, and i'am a student of Analysis and Systems development at the Federal Technological University of Parana (UTFPR).
+## 🧰 Languages and Tools:
+[![My Skills](https://skills.thijs.gg/icons?i=c,java,mysql,figma)](https://skills.thijs.gg)
+I’m currently learning:
+[![My Skills](https://skills.thijs.gg/icons?i=postgres,cs,unity)](https://skills.thijs.gg)
 
-
+## ✉️ Find me on:
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
