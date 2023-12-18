@@ -1,5 +1,5 @@
 ## 🧑🏻‍💻 Ian da Silva Correia
-<img src="https://media4.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif?cid=ecf05e474sva1kb3zcluqqykghjepyy7rcv38m6mk8rsvip1&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="ilustração de um porquinho programador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media4.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif?cid=ecf05e474sva1kb3zcluqqykghjepyy7rcv38m6mk8rsvip1&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="ilustração de um porquinho programador" min-width="180px" max-width="180px" width="180px" align="right">
 
 <p align="left"> 
 Hello there,
