@@ -33,9 +33,9 @@ I work mainly with **React, React Native, Node.js, and Next.js**, and I have sol
 ---
 
 ## 🧠 Other Skills & Tools
-- **Backend & Databases:** Node.js, Express, MongoDB, PostgreSQL, MySQL,
-- **Frontend:** html5, css, MongoDB, PostgreSQL, MySQL,
-- **AI & Automation:** LLM integrations, AI agents, document automation  
+- **Backend & Databases:** Node.js, Express, MongoDB, PostgreSQL, MySQL
+- **Frontend:** html5, css, MongoDB, PostgreSQL, MySQL
+- **AI & Automation:** n8n, LLM integrations, AI agents, document automation  
 - **Product & UI:** Figma, UI/UX principles  
 - **Others:** Java, C, Git, reactnavigation, twilio, notion, netbeans, insomnia, heroku
 
