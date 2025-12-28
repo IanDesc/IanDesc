@@ -16,20 +16,28 @@ I work mainly with **React, React Native, Node.js, and Next.js**, and I have sol
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40"/>
+  <!-- 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  -->
 </p>
 
 ---
 
 ## 🧠 Other Skills & Tools
-- **Backend & Databases:** Node.js, Express, MongoDB, PostgreSQL, MySQL  
+- **Backend & Databases:** Node.js, Express, MongoDB, PostgreSQL, MySQL,
+- **Frontend:** html5, css, MongoDB, PostgreSQL, MySQL,
 - **AI & Automation:** LLM integrations, AI agents, document automation  
 - **Product & UI:** Figma, UI/UX principles  
-- **Others:** Java, C, Git
+- **Others:** Java, C, Git, reactnavigation, twilio, notion, netbeans, insomnia, heroku
 
 ---
 
