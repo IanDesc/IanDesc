@@ -22,6 +22,7 @@ I work mainly with **React, React Native, Node.js, and Next.js**, and I have sol
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
+
 ---
 
 ## 🧠 Other Skills & Tools
